@@ -1,16 +1,19 @@
-### Hi there 👋
-
-<!--
-**Pawel-Borowiec/Pawel-Borowiec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi there 👋 :wave: :wave:
+My name is Paweł Borowiec. I am studying IT in warsaw on PJATK and additionally learn in home mainly from Udemy/Eduweb to improve my skills in IT. You can find me on LinkedIn
+#### :house: Hobby Projects
+After hours, I like to develop applications which solve my daily problems or just let me have fun 😆 Mostly i use in my own projects JAVA FX framework despite its negligible popularity. 
+#### 🎓 Academic projects
+Some of them have been placed on github after minor changes. In most cases it is forbidden by academic rules as many projects are repeated in a similar form on different years 
+#### 🔧 Technology stack
+- Java
+- HTML5 
+- CSS3
+- Javascript
+- Node.js
+- Git
+#### 🔧 Technologies that I had contact with during my studies so i am know at least fundamentals of them
+- C# (ASP.NET)
+- Linux
+- BASH
+- Swift
+- Groovy
