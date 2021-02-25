@@ -11,6 +11,7 @@ Some of them have been placed on github after minor changes. In most cases it is
 - Javascript
 - Node.js
 - Git
+- SQL with T-SQL and fundamentals of PL/SQL
 #### 🔧 Technologies that I had contact with during my studies so i am know at least fundamentals of them
 - C# (ASP.NET)
 - Linux
