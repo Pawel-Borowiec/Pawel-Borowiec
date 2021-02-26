@@ -1,5 +1,6 @@
 ## Hi there 👋 :wave: :wave:
-My name is Paweł Borowiec. I am studying IT in warsaw on PJATK and additionally learn in home mainly from Udemy/Eduweb to improve my skills in IT. You can find me on LinkedIn
+My name is Paweł Borowiec. I am studying IT in warsaw on PJATK and additionally learn in home mainly from Udemy/Eduweb to improve my skills in IT.
+Check also my portfolio: https://pawel-borowiec.github.io/
 #### :house: Hobby Projects
 After hours, I like to develop applications which solve my daily problems or just let me have fun 😆 Mostly i use in my own projects JAVA FX framework despite its negligible popularity. 
 #### 🎓 Academic projects
