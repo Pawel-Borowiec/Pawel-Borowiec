@@ -6,7 +6,8 @@ After hours, I like to develop applications which solve my daily problems or jus
 #### 🎓 Academic projects
 Some of them have been placed on github after minor changes. In most cases it is forbidden by academic rules as many projects are repeated in a similar form on different years 
 #### 🔧 Technology stack
-- Java
+- Java 8/11
+- Spring Boot
 - HTML5 
 - CSS3
 - Javascript
