@@ -11,11 +11,11 @@ Some of them have been placed on github after minor changes. In most cases it is
 - HTML5 
 - CSS3
 - Javascript
-- Node.js
+- C#/.NET
 - Git
 - SQL with T-SQL and fundamentals of PL/SQL
 #### 🔧 Technologies that I had contact with during my studies so i am know at least fundamentals of them
-- C# (ASP.NET)
+- Node.js
 - Linux
 - BASH
 - Swift
