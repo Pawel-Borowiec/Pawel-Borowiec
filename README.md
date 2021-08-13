@@ -6,7 +6,7 @@ After hours, I like to develop applications which solve my daily problems or jus
 #### 🎓 Academic projects
 Some of them have been placed on github after minor changes. In most cases it is forbidden by academic rules as many projects are repeated in a similar form on different years 
 #### 🔧 Repository statistics
-![Repo stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Pawel-Borowiec&layout=compact)
+![Repo stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Pawel-Borowiec&layout=compact) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pawel-Borowiec&show_icons=true&theme=default)
 #### 🔧 Technology stack
 - Java 8/11
 - Spring Boot
