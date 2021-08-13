@@ -14,7 +14,7 @@ Some of them have been placed on github after minor changes. In most cases it is
 - C#/.NET
 - Git
 - SQL with T-SQL and fundamentals of PL/SQL
-https://github-readme-stats.vercel.app/api/top-langs/?username=Pawel-Borowiec&layout=compact
+- ![Repo stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Pawel-Borowiec&layout=compact)
 #### 🔧 Technologies that I had contact with during my studies so i am know at least fundamentals of them
 - Node.js
 - Linux
